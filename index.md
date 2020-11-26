@@ -2,7 +2,7 @@
 自動運転と画像処理を頑張りたい。。。
 
 ## Profile
-- Takumi YONEMOTO
-- Osaka
-- ROS Python 機械学習
+- Takumi YONEMOTO (name) 
+- Osaka (location)
+- ROS Python 機械学習 (skill)
 
