@@ -6,3 +6,39 @@
 - Osaka (location)
 - ROS Python 機械学習 (skill)
 
+# Skills
+使ったことや興味のある言語、ツール、OSなどを具体的に書きましょう。
+- OS（Ubuntu,Mac）
+- Languages（Python C++）
+- Frameworks (ROS Tensorflow)
+- Tool,MiddleWare（ROS Git）
+- 資格、免許（普通免許）
+
+# Works
+アピールできる活動内容を書きましょう。
+- [GitHub](GitHubのURL)
+- [Qiita](QiitaのURL)
+- 作った作品
+　- 競馬予想slack bot 
+- 作りたい作品
+  - flluterでのアプリ開発
+  - 節電義手（機械学習とか使いたいぃぃぃ）
+- 頑張りたいこと
+  - Autoware動かしたい。。。
+  - Kaggleにsubしたい
+- 将来の夢
+  - 福祉を頑張りたい（節電義手はまさにそれです。）
+
+
+# Contact
+連絡先を書きましょう。
+- [Twitter](https://twitter.com/toooyone)
+- [Mail](m19ta040@xr.osaka-cu.ac.jp)
+
+# History
+学歴、職歴、アルバイト、インターン経験など。
+- 同志社大学　工学部　機械システム工学科　噴霧・燃焼研　植物工場におけるエネルギ最適化システムに関する研究　pythonで頑張った。
+- 大阪市立大学大学院　工学研究科　機械物理系専攻　盲導犬ロボットに搭載する外的環境認識に関する研究(機械学習とROSちょっとできるっていいたい)
+- インターン 角川ドワンゴ学園 [N高等学校](URL) TA
+- ラーメン屋バイト　(美味しいラーメン屋でした。。)
+
