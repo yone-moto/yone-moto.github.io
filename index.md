@@ -19,7 +19,7 @@
 - [GitHub](https://github.com/yone-moto)
 - [Qiita](https://qiita.com/yoneyoneclub)
 - 作った作品
- - 競馬予想slack bot 
+  - 競馬予想slack bot 
 - 作りたい作品
   - flluterでのアプリ開発
   - 節電義手（機械学習とか使いたいぃぃぃ）
