@@ -7,7 +7,6 @@
 - ROS Python 機械学習 (skill)
 
 # Skills
-使ったことや興味のある言語、ツール、OSなどを具体的に書きましょう。
 - OS（Ubuntu,Mac）
 - Languages（Python C++）
 - Frameworks (ROS Tensorflow)
@@ -15,7 +14,6 @@
 - 資格、免許（普通免許）
 
 # Works
-アピールできる活動内容を書きましょう。
 - [GitHub](https://github.com/yone-moto)
 - [Qiita](https://qiita.com/yoneyoneclub)
 - 作った作品
@@ -31,7 +29,6 @@
 
 
 # Contact
-連絡先を書きましょう。
 - [Twitter](https://twitter.com/toooyone)
 - [Mail](m19ta040@xr.osaka-cu.ac.jp)
 
