@@ -30,7 +30,6 @@
 
 # Contact
 - [Twitter](https://twitter.com/toooyone)
-- [Mail](m19ta040@xr.osaka-cu.ac.jp)
 
 # History
 学歴、職歴、アルバイト、インターン経験など。
