@@ -16,6 +16,7 @@
 # Works
 - [GitHub](https://github.com/yone-moto)
 - [Qiita](https://qiita.com/yoneyoneclub)
+- [GCI(2020summer)](https://gci.t.u-tokyo.ac.jp/)
 - 作った作品
   - 競馬予想slack bot 
 - 作りたい作品
