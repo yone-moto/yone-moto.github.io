@@ -1,8 +1,9 @@
 # About
+
 自動運転と画像処理を頑張りたい。。。
 
 ## Profile
-- Takumi YONEMOTO (name) 
+- 米本　拓海　（YONEMOTO　Takumi） (name)
 - Osaka (location)
 - ROS Python 機械学習 (skill)
 
