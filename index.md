@@ -36,9 +36,12 @@
 - [Twitter](https://twitter.com/toooyone)
 
 # History
-学歴、職歴、アルバイト、インターン経験など。
-- 噴霧・燃焼研　植物工場におけるエネルギ最適化システムに関する研究
-- [盲導犬ロボットに搭載する外的環境認識に関する研究](https://readyfor.jp/projects/guidecane2)(機械学習とROSちょっとできるっていいたい)
-- インターン 角川ドワンゴ学園 [N高等学校](https://nnn.ed.jp/course/commute_programming/) TA
-- ラーメン屋バイト　(美味しいラーメン屋でした。。)
+- 高校:硬式野球部
+- 大学:[こどもとキャンプサークル](https://dwc-camp.jimdofree.com/)
+- 大学:ラーメン屋バイト　(美味しいラーメン屋でした。。)
+- 大学:噴霧・燃焼研　植物工場におけるエネルギ最適化システムに関する研究
+- 大学院:日向坂46
+- 大学院:[盲導犬ロボットに搭載する外的環境認識に関する研究](https://readyfor.jp/projects/guidecane2)(機械学習とROSちょっとできるっていいたい)
+- 大学院:インターン 角川ドワンゴ学園 [N高等学校](https://nnn.ed.jp/course/commute_programming/) TA
+- 仕事:ダイハツ工業株式会社
 
