@@ -3,18 +3,21 @@
 自動運転と画像処理を頑張りたい。。。
 
 ## Profile
-- 米本　拓海　（YONEMOTO　Takumi） (name)
+- 米本　拓海　（YONEMOTO　Takumi）
 - Osaka (location)
-- ROS Python 機械学習 (skill)
+- ROS Python 機械学習 
 
 # Skills
-- OS（Ubuntu,Mac）
-- Languages（Python C++）
+- Programming language（Python C++）
 - Frameworks (ROS Tensorflow)
-- Tool,MiddleWare（ROS Git）
-- 資格、免許（普通免許）
+- [Kaggle Master](https://www.kaggle.com/tyonemoto)
 
 # Works
+- kaggle 
+  - GSDC2021 70/810🥉 
+  - CommonLit Readability Prize 158/3633🥈
+  - H&M　63/2952🥈
+  - GSDC2022 89/571🥉
 - [GitHub](https://github.com/yone-moto)
 - [Qiita](https://qiita.com/yoneyoneclub)
 - [GCI(2020summer)](https://gci.t.u-tokyo.ac.jp/)
@@ -29,14 +32,13 @@
 - 将来の夢
   - 福祉を頑張りたい（節電義手はまさにそれです。）
 
-
 # Contact
 - [Twitter](https://twitter.com/toooyone)
 
 # History
 学歴、職歴、アルバイト、インターン経験など。
--噴霧・燃焼研　植物工場におけるエネルギ最適化システムに関する研究　pythonで頑張った。
--盲導犬ロボットに搭載する外的環境認識に関する研究(機械学習とROSちょっとできるっていいたい)
-- インターン 角川ドワンゴ学園 [N高等学校](URL) TA
+- 噴霧・燃焼研　植物工場におけるエネルギ最適化システムに関する研究
+- [盲導犬ロボットに搭載する外的環境認識に関する研究](https://readyfor.jp/projects/guidecane2)(機械学習とROSちょっとできるっていいたい)
+- インターン 角川ドワンゴ学園 [N高等学校](https://nnn.ed.jp/course/commute_programming/) TA
 - ラーメン屋バイト　(美味しいラーメン屋でした。。)
 
