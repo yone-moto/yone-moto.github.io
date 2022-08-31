@@ -3,12 +3,12 @@
 自動運転と画像処理を頑張りたい。。。
 
 ## Profile
-- 米本　拓海　（YONEMOTO　Takumi）
-- Osaka (location)
+- YONEMOTO　Takumi
+- Osaka
 - ROS Python 機械学習 
 
 # Skills
-- Programming language（Python C++）
+- Programming language（Python）
 - Frameworks (ROS Tensorflow)
 - [Kaggle Master](https://www.kaggle.com/tyonemoto)
 
